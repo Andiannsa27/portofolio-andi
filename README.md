@@ -54,7 +54,7 @@ Proficient in requirements gathering, process modeling, design system, solution 
 
 ## CERTIFICATIONS
 <div>
-<img src="https://media.licdn.com/dms/image/v2/D562DAQHyymj0EAf0Rw/profile-treasury-image-shrink_800_800/B56Zp4oA7MIcAY-/0/1762960361147?e=1763568000&v=beta&t=kTTMs7SvloJz88yXpIwJxjvkpAWOP4u-Yw-q7hCwWBE" style="width:1085px; height:768px; border-radius:50%; object-fit:cover; border:3px solid #0078D4;" />
+<img src="https://media.licdn.com/dms/image/v2/D562DAQHyymj0EAf0Rw/profile-treasury-image-shrink_800_800/B56Zp4oA7MIcAY-/0/1762960361147?e=1763568000&v=beta&t=kTTMs7SvloJz88yXpIwJxjvkpAWOP4u-Yw-q7hCwWBE" style="width:985px; height:768px; border-radius:50%; object-fit:cover; border:3px solid #0078D4;" />
 <img src="https://drive.google.com/file/d/17EfmT9OM6QnsFRvjjAycDJeIWqwQfQ00/view?usp=drive_link" />
 <img src="https://drive.google.com/file/d/1cpAejNntVF4V6nAVoE8LE51msYFLwtcM/view?usp=drive_link" />
 <img src="https://drive.google.com/file/d/1BwXGDBlPvI4li4kaEgdQmY08um1LuYDO/view?usp=drive_link" />
