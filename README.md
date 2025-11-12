@@ -1,7 +1,7 @@
 # HELLO! I'M ANDI ANNISA AMALIA DIAN PUTRI
 <a href="https://www.linkedin.com/in/andi-annisa-amalia-dian-putri-007b44176"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:andiannisa2706@gmail.com"><<img src="https://img.shields.io/badge/Email?style=for-the-badge&logoColor=White">
-" /></a>
+<a href="mailto:andiannisa2706@gmail.com"><img src="https://img.shields.io/badge/-Email-0072b1?&style=for-the badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 ## ABOUT ME 👋
