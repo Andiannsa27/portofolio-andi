@@ -38,23 +38,19 @@ Proficient in requirements gathering, process modeling, design system, solution 
 
 
 ## TOOLS
-- MySQL
-- Draw.io
-- Python
-- Jira
-- Figma
-- Microsoft Office
-- GitHub
-
-## TOOLS
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Draw.io" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="30px" src="https://logo.svgcdn.com/logos/jira.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="25x" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:0px;" />
 <img align="left" alt="Word" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Microsoft_Office_Word_%282019%E2%80%932025%29.svg" style="padding-right:10px;" />
+<img align="left" alt="Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" style="padding-right:10px;" />
+<img align="left" alt="Powerpoint" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="padding-right:10px;" />
+
 <br />
 <br />
+
 
 ## CERTIFICATIONS
 <div>
