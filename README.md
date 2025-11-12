@@ -9,21 +9,19 @@ Proficient in requirements gathering, process modeling, design system, solution 
 
 ## WORK EXPERIENCE 💼
 #### 1. Sekretariat Jenderal DPD RI | Front End Developer Internship | `August 2023 – October 2023`
-[Project : ](https://sigma.dpd.go.id)
+[Project : SIGAMA (SISTEM INFORMASI MAGANG BERSAMA) DPD RI ](https://sigma.dpd.go.id)
    - 	Successfully designed and implemented 10+ interfaces using responsive HTML and CSS including vacancy menu, application status, activity score, and admin menu.
    - Increased efficiency of internship registration process by website up to 50%.
 
 
 ## EDUCATION 🏫
-UNIVERSITAS TRILOGI
-Bachelor of Computer in Information Systems 	-   September 2021 - February 2025 
-GPA: 3.59 / 4.00 (Cum Laude)
-●	Successfully completed a thesis of UI/UX design Sekretariat Jenderal DPD RI's internship registration website using design thinking method with usability testing score of 87 and system usability scale score of 84 (acceptable).
+#### 1. UNIVERSITAS TRILOGI | Information Systems | `September 2021 - February 2025`
+#### GPA: 3.59 / 4.00 (Cum Laude)
+   - Successfully completed a thesis of UI/UX design Sekretariat Jenderal DPD RI's internship registration website using design thinking method with usability testing score of 87 and system usability scale score of 84 (acceptable).
 
-CEP-CCIT FTUI 
-Associate Degree of Information Technology    -   July 2019 - November 2022 
-GPA: 3.62 / 4.00
-●	Successfully completed design project of SMA Kencana's registration website using HTML and CSS and designed new student registration structure more efficient up to 60% with interactive interface..
+#### 2. CEP-CCIT FTUI | Information Technology | `July 2019 - November 2022`
+#### GPA: 3.62 / 4.00
+   - Successfully completed design project of SMA Kencana's registration website using HTML and CSS and designed new student registration structure more efficient up to 60% with interactive interface.
 
 
 ## SKILLS 🖥️
