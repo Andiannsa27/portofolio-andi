@@ -53,10 +53,7 @@ Proficient in requirements gathering, process modeling, design system, solution 
 
 
 ## CERTIFICATIONS
-<div>
-<img src="https://media.licdn.com/dms/image/v2/D562DAQHyymj0EAf0Rw/profile-treasury-image-shrink_800_800/B56Zp4oA7MIcAY-/0/1762960361147?e=1763568000&v=beta&t=kTTMs7SvloJz88yXpIwJxjvkpAWOP4u-Yw-q7hCwWBE" style="width:595px; height:438px; border-radius:50%; object-fit:cover; border:3px solid #0078D4;" />
-<img src="https://drive.google.com/file/d/17EfmT9OM6QnsFRvjjAycDJeIWqwQfQ00/view?usp=drive_link" />
-<img src="https://drive.google.com/file/d/1cpAejNntVF4V6nAVoE8LE51msYFLwtcM/view?usp=drive_link" />
-<img src="https://drive.google.com/file/d/1BwXGDBlPvI4li4kaEgdQmY08um1LuYDO/view?usp=drive_link" />
-<img src="https://drive.google.com/file/d/14Gr8vUC2g_tiycNen86xouCIDoAYK2sh/view?usp=drive_link" />
-</div>
+#### 1. [Memulai Pemrograman Dengan Python](https://drive.google.com/file/d/1BHamzGtO58EcgqV8PqBHqW_auL-Y61O0/view?usp=drive_link) 
+#### 2. [Memulai Pemrograman Dengan Java](https://drive.google.com/file/d/1SU0lTz2dcLAZz1e_JKOq0QbLrhPMaSju/view?usp=drive_link) 
+#### 3. [MSIB Studi Independen Zenius UI/UX Design For Climate Change Resolution And Sustainable Development](https://drive.google.com/file/d/1R-mOrDruUDtVRlGKScH-EUZDTUvmOuJd/view?usp=drive_link)
+#### 4. [Data Visualization with Looker Data Studio](https://drive.google.com/file/d/1rDQ2iBhE5M7L2BNPtExhFRU7ysPc20L5/view?usp=drive_link)
