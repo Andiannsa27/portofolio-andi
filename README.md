@@ -48,7 +48,7 @@ Proficient in requirements gathering, process modeling, design system, solution 
 
 ## TOOLS
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Draw.io" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
+<img align="left" alt="Draw.io" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="30px" src="https://logo.svgcdn.com/logos/jira.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:0px;" />
