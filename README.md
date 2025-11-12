@@ -11,6 +11,7 @@ Proficient in requirements gathering, process modeling, design system, solution 
 Sekretariat Jenderal DPD RI 
 Front End Developer Internship   -   August 2023 – October 2023 
 Project : <a href=https://sigma.dpd.go.id/>
+
 ●	Successfully designed and implemented 10+ interfaces using responsive HTML and CSS including vacancy menu, application status, activity score, and admin menu.
 ●	Increased efficiency of internship registration process by website up to 50%.
 
