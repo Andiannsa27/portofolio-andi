@@ -1,5 +1,7 @@
-#### HELLO! I'M ANDI ANNISA AMALIA DIAN PUTRI
+# HELLO! I'M ANDI ANNISA AMALIA DIAN PUTRI
 <a href="https://www.linkedin.com/in/andi-annisa-amalia-dian-putri-007b44176"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:andiannisa2706@gmail.com"><<img src="https://img.shields.io/badge/Email?style=for-the-badge&logoColor=White">
+" /></a>
 
 
 ## ABOUT ME 👋
@@ -31,8 +33,8 @@ Proficient in requirements gathering, process modeling, design system, solution 
 | Problem Solving  🎯                           | Unified Modeling Language (UML) 📈|
 | Attention to Detail  🔍                       | MySQL & Database Modeling 🧩|
 | Communication & Collaboration 👥              | SDLC Methods 🌐 |
-| Creativity  📝                                | Requirement Analysis & SRS Documentation 🗂️|
-| Time Management  ⏱️                           | Data Flow Diagram 📉|
+| Creativity  📝                                | SRS Documentation 🗂️|
+| Time Management  ⏱️                           | Data Flow Diagram (DFD) 📉|
 
 
 ## TOOLS
