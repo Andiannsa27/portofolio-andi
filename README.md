@@ -54,7 +54,7 @@ Proficient in requirements gathering, process modeling, design system, solution 
 
 ## CERTIFICATIONS
 <div>
-  <a href="https://yourportfolio.com](https://drive.google.com/file/d/17EfmT9OM6QnsFRvjjAycDJeIWqwQfQ00/view?usp=drive_link" target="_blank"><img src="https://yourimageurl.com/profile.jpg](https://drive.google.com/file/d/17EfmT9OM6QnsFRvjjAycDJeIWqwQfQ00/view?usp=drive_link" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid #0078D4;" />
+  <a href="https://drive.google.com/file/d/17EfmT9OM6QnsFRvjjAycDJeIWqwQfQ00/view?usp=drive_link"><img src="https://drive.google.com/file/d/17EfmT9OM6QnsFRvjjAycDJeIWqwQfQ00/view?usp=drive_link" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid #0078D4;" />
 <img src="https://drive.google.com/file/d/17EfmT9OM6QnsFRvjjAycDJeIWqwQfQ00/view?usp=drive_link" />
 <img src="https://drive.google.com/file/d/1cpAejNntVF4V6nAVoE8LE51msYFLwtcM/view?usp=drive_link" />
 <img src="https://drive.google.com/file/d/1BwXGDBlPvI4li4kaEgdQmY08um1LuYDO/view?usp=drive_link" />
